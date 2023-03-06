@@ -1,1 +1,34 @@
 /* Write your CSS here! */
+p {
+    margin: 8px;
+    display: block;
+}
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p {
+    background-color: pink;
+}
+.intro {
+    background-color: yellow;
+}
+#firstname {
+    background-color: aquamarine;
+}
+
+.test {
+    color: blue;
+}
+#MainHeading {
+    color: red
+}
+#testp {
+    color: green
+}
+.funParagraph {
+    color: green
+}
+    
